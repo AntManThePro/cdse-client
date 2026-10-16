@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.SAFE/
+*.zip
+*.tif
+*.png
+*.jpg
+buda_truecolor.png
+ndvi.tif
+tc.png
+.DS_Store
